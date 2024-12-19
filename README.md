@@ -9,11 +9,11 @@
 - Ensure the uploaded folder contains approximately **1,600 files** and **1 class**.  
 
 ### 2. Copy the Colab Files  
-- Open the Colab notebooks available in [this Google Drive folder](https://drive.google.com/drive/folders/1Oup5-MJPrSVTLgEIYCa99RRq-F3en8Ot).  
+- Open the Colab notebooks available in [this Google Drive folder](https://drive.google.com/drive/folders/1Oup5-MJPrSVTLgEIYCa99RRq-F3en8Ot) or download the ipynb files from this repository. 
 - Create a copy of each `.ipynb` file to your Google Drive.  
 
-
 ### 3. Run the Colab Files
+- Open the ipynb files in Google Colab.
 - Ensure the dataset path corresponds to the correct Shared Drive folder: `"/content/drive/Shareddrives/"CMSC 191"/"CMSC 191 GenAI Datasets"`
 - Run all cells in the notebook to process the dataset and execute the analysis.
 
