@@ -1,26 +1,13 @@
 # A Comparative Analysis of Different Image Generative Models Using Healthy Mango Leaf Dataset
 
 ## Authors
-Angeline S. Catapang  
-Email: [ascatapang@up.edu.ph](mailto:ascatapang@up.edu.ph)
-
-Patrick John A. Francisco  
-Email: [pafrancisco4@up.edu.ph](mailto:pafrancisco4@up.edu.ph)
-
-Justin Carl C. Sagun  
-Email: [jcsagun@up.edu.ph](mailto:jcsagun@up.edu.ph)
-
-Allen Christian P. Segovia  
-Email: [apsegovia@up.edu.ph](mailto:apsegovia@up.edu.ph)
-
-Mark Henry S. Alcantara  
-Email: [msalcantara4@up.edu.ph](mailto:msalcantara4@up.edu.ph)
-
-Jerico Luis A. Ungos  
-Email: [jaungos@up.edu.ph](mailto:jaungos@up.edu.ph)
-
-Andrei Joshua T. Gelaga  
-Email: [atgelaga@up.edu.ph](mailto:atgelaga@up.edu.ph)
+Angeline S. Catapang [ascatapang@up.edu.ph](mailto:ascatapang@up.edu.ph)
+Patrick John A. Francisco [pafrancisco4@up.edu.ph](mailto:pafrancisco4@up.edu.ph)
+Justin Carl C. Sagun [jcsagun@up.edu.ph](mailto:jcsagun@up.edu.ph)
+Allen Christian P. Segovia [apsegovia@up.edu.ph](mailto:apsegovia@up.edu.ph)
+Mark Henry S. Alcantara [msalcantara4@up.edu.ph](mailto:msalcantara4@up.edu.ph)
+Jerico Luis A. Ungos [jaungos@up.edu.ph](mailto:jaungos@up.edu.ph)
+Andrei Joshua T. Gelaga [atgelaga@up.edu.ph](mailto:atgelaga@up.edu.ph)
 
 ## Dataset and Colab Setup  
 
