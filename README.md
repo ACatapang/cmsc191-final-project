@@ -1,20 +1,17 @@
 # Comparative Analysis of Different Image Generative Models Using Healthy Mango Leaf Dataset
 
+---
+
 ## Authors
-Andrei Joshua T. Gelaga [(atgelaga@up.edu.ph)](mailto:atgelaga@up.edu.ph)
-
-Angeline S. Catapang [(ascatapang@up.edu.ph)](mailto:ascatapang@up.edu.ph)
-
-Allen Christian P. Segovia [(apsegovia@up.edu.ph)](mailto:apsegovia@up.edu.ph)
-
-Jerico Luis A. Ungos [(jaungos@up.edu.ph)](mailto:jaungos@up.edu.ph)
-
-Justin Carl C. Sagun [(jcsagun@up.edu.ph)](mailto:jcsagun@up.edu.ph)
-
-Mark Henry S. Alcantara [(msalcantara4@up.edu.ph)](mailto:msalcantara4@up.edu.ph)
-
-Patrick John A. Francisco [(pafrancisco4@up.edu.ph)](mailto:pafrancisco4@up.edu.ph)
-
+- Andrei Joshua T. Gelaga [(atgelaga@up.edu.ph)](mailto:atgelaga@up.edu.ph)
+- Angeline S. Catapang [(ascatapang@up.edu.ph)](mailto:ascatapang@up.edu.ph)
+- Allen Christian P. Segovia [(apsegovia@up.edu.ph)](mailto:apsegovia@up.edu.ph)
+- Jerico Luis A. Ungos [(jaungos@up.edu.ph)](mailto:jaungos@up.edu.ph)
+- Justin Carl C. Sagun [(jcsagun@up.edu.ph)](mailto:jcsagun@up.edu.ph)
+- Mark Henry S. Alcantara [(msalcantara4@up.edu.ph)](mailto:msalcantara4@up.edu.ph)
+- Patrick John A. Francisco [(pafrancisco4@up.edu.ph)](mailto:pafrancisco4@up.edu.ph)
+  
+---
 
 ## Dataset and Colab Setup  
 
@@ -32,6 +29,8 @@ Patrick John A. Francisco [(pafrancisco4@up.edu.ph)](mailto:pafrancisco4@up.edu.
 - Open the ipynb files in Google Colab.
 - Ensure the dataset path corresponds to the correct Shared Drive folder: `"/content/drive/Shareddrives/"CMSC 191"/"CMSC 191 GenAI Datasets"`
 - Run all cells in the notebook to process the dataset and execute the analysis.
+
+---
 
 Notes:
 Ensure you have the necessary permissions for the Google Shared Drive.
