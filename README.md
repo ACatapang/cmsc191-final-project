@@ -20,7 +20,7 @@ This study conducts a comparative analysis of three image generative models—Au
 - Ensure the uploaded folder contains approximately **1,600 files** and **1 class**.  
 
 ### 2. Copy the Colab Files  
-- Open the Colab notebooks available in [this Google Drive folder](https://drive.google.com/drive/folders/1Oup5-MJPrSVTLgEIYCa99RRq-F3en8Ot) or download the ipynb files from this repository. 
+- Open the notebooks available in [this Google Drive folder](https://drive.google.com/drive/folders/1Oup5-MJPrSVTLgEIYCa99RRq-F3en8Ot). Alternatively, the notebooks in this repository have google colab links attached.
 - Create a copy of each `.ipynb` file to your Google Drive.  
 
 ### 3. Run the Colab Files
