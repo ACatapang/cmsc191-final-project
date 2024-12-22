@@ -1,6 +1,6 @@
 # Comparative Analysis of Different Image Generative Models Using Healthy Mango Leaf Dataset
 
----
+This study conducts a comparative analysis of three image generative models—Autoencoders, Generative Adversarial Networks (GANs), and Restricted Boltzmann Machines (RBMs)—using a dataset of healthy mango leaf images. A subset of images underwent preprocessing, augmentation, and resizing to create a training set totaling to 1,620 images. The models were evaluated for their image generation under varying hyperparameters, epochs and batch sizes, and was quantitatively assessed using Mean Squared Error (MSE). Results highlight the strengths and limitations of each model, providing insights into their performance and suitability for image generation, with Autoencoders demonstrating the lowest MSE, while GANs and RBMs results suggests for the need of longer training time and advanced modifications to these implementations.
 
 ## Authors
 - Andrei Joshua T. Gelaga [(atgelaga@up.edu.ph)](mailto:atgelaga@up.edu.ph)
@@ -11,8 +11,6 @@
 - Mark Henry S. Alcantara [(msalcantara4@up.edu.ph)](mailto:msalcantara4@up.edu.ph)
 - Patrick John A. Francisco [(pafrancisco4@up.edu.ph)](mailto:pafrancisco4@up.edu.ph)
   
----
-
 ## Dataset and Colab Setup  
 
 ### 1. Upload the Dataset  
